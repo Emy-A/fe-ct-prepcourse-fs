@@ -88,7 +88,7 @@ function esDiezOCinco(num) {
    if (num === 10 || num === 5) {
       return true;
 } else 
-return false;
+return false; 
 }
 
 function estaEnRango(num) {
